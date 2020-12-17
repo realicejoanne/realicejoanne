@@ -108,7 +108,5 @@
 
 ## Catalog (Private)
 - Free! Catalog | [free-catalog](https://github.com/realicejoanne/free-catalog) | [Preview](https://realicejoanne.github.io/free-catalog/)
-</br>
 - IU Catalog | [iu-catalog](https://github.com/realicejoanne/iu-catalog) | [Preview](https://realicejoanne.github.io/iu-catalog/)
-</br>
 - Voltage Inc. Catalog | [voltage-catalog](https://github.com/realicejoanne/voltage-catalog) | [Preview](https://realicejoanne.github.io/voltage-catalog/)
