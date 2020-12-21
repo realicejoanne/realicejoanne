@@ -9,6 +9,8 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=buefy)
 
+![](https://komarev.com/ghpvc/?username=realicejoanne&color=blueviolet)
+
 <p>
   <a href="https://www.linkedin.com/in/patricia-joanne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/realicejoanne" target="_blank"><img src="https://img.shields.io/badge/Behance-%23E4405F.svg?&style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
