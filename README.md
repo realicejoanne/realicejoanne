@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ari!
+# 👋 Hello, I'm Pat!
 
 ### I am interested in UI/UX, AI, and Social Media Management.
 ### Previously at 🚚 [Kargo Technologies](http://kargo.tech/en/).
